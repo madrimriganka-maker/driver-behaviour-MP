@@ -1,0 +1,12 @@
+Test Accuracy : 68.42%
+Test Loss     : 0.7411
+
+              precision    recall  f1-score   support
+
+      NORMAL     1.0000    0.1667    0.2857         6
+  AGGRESSIVE     0.6250    1.0000    0.7692         5
+        SLOW     0.7000    0.8750    0.7778         8
+
+    accuracy                         0.6842        19
+   macro avg     0.7750    0.6806    0.6109        19
+weighted avg     0.7750    0.6842    0.6201        19
